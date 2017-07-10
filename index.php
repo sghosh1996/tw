@@ -68,26 +68,48 @@
 	<div class="container sub-container">
 		<div class="row">
 			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-				<a href="#"><img src="assets/img/image-sub.jpg" class="img-responsive" alt="Image">
-				<h1>Computer Network</h1></a>
+				<a href="#">
+				<img src="assets/img/image-sub.jpg" class="img-responsive" alt="Image">
+				<h1>Computer Network</h1>
+				</a>
 			</div>
 			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+				<a href="">
 				<img src="assets/img/ArtificialIntelligence.jpg" class="img-responsive" alt="Image">
 				<h1>Artificial Intelligence</h1>
+				</a>
 			</div>
 			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+				<a href="">
 				<img src="assets/img/code.jpg" class="img-responsive" alt="Image">
 				<h1>Compiler Design</h1>
+				</a>
 			</div>
 		</div>
 	</div>
-
-
-
-
-
+	
 	<!-- Content end -->
-	<hr>
+    <section class="heroimage2">
+		<div class="container img-container">
+			<div class="row img-row">
+				<div class="col-md-6 col-md-offset-3 img-content">
+					<h1 style="font-weight: 700; font-size: 36px;">
+						Lorem ipsum dolor sit amet
+					</h1>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<a class="btn btn-info btn-bgcolor" href="#popup1">BOOK NOW 2</a>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+
 
 	<div id="popup1" class="overlay">
 		<div class="popup">
@@ -99,8 +121,10 @@
 		</div>
 	</div>
 
+
 </body>
 	<script src="assets/js/jquery.js" type="text/javascript" charset="utf-8"></script>
 	<script src="assets/js/bootstrap.min.js" type="text/javascript" charset="utf-8"></script>
-</script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script src="assets/js/parallax.min.js" type="text/javascript" charset="utf-8"></script>
 </html>
